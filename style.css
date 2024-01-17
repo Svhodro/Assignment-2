@@ -283,13 +283,13 @@ nav{
     width:15vw;
 }
 .card{
-    width: 40vw;
-    height:23vw;
+    width: 50%;
+    height:90%;
     border-radius: 16px;
     border: none;
     background: rgba(255, 255, 255, 0.80);
     backdrop-filter: blur(2.5px);
-    padding: 1vw;
+    padding: 2vw;
     justify-content:center;
     align-items: flex-start;
     flex-direction: column;
@@ -428,6 +428,7 @@ flex-direction: column;
 footer{
  width: 100%;
  flex-direction: column;
+ background: rgba(19, 19, 24, 0.05);
 }
 .footer-main{
     width: 70%;
@@ -458,7 +459,7 @@ footer{
 .copyright{
     color: #131318;
     font-family: Inter;
-    font-size: 2vw;
+    font-size: 1.3vw;
     font-style: normal;
     font-weight: 300;
     line-height: normal;
